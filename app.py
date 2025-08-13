@@ -10,7 +10,7 @@ import plotly.express as px
 # ---------------------------
 st.set_page_config(page_title="Beauty Business Dashboard", layout="wide")
 
-st.image("Sapiedata.png", width=120)
+st.image("Sapiendata.png", width=120)
 st.markdown("""
     <h1 style='color:#d63384; font-weight:bold; margin-top: -20px;'>Sapien Data</h1>
 """, unsafe_allow_html=True)
