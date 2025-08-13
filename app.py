@@ -10,13 +10,11 @@ import plotly.express as px
 # ---------------------------
 st.set_page_config(page_title="Beauty Business Dashboard", layout="wide")
 
+st.image("/Users/robinjoseph/Desktop/Sapien Data/Beauty Dashboard/Sapiedata.png", width=120)
 st.markdown("""
-<style>
-    .stApp { background-color: #fff8f9; }
-    h1, h2, h3 { color: #d63384; }
-    div[data-testid="stMetricValue"] { font-size: 28px; color: #d63384; }
-</style>
+    <h1 style='color:#d63384; font-weight:bold; margin-top: -20px;'>Sapien Data</h1>
 """, unsafe_allow_html=True)
+
 
 
 # HELPERS
